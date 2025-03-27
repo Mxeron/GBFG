@@ -1,2 +1,2 @@
 # GBFG
-The code will be released after Accept.
+Granular-ball fuzzy information-based outlier detector
